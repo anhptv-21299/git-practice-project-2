@@ -1,0 +1,4 @@
+TC001 - Verify successful login
+TC002 - Verify login with incorrect password
+TC003 - Verify login with empty usernam
+Thêm dòng email
